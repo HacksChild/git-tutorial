@@ -1,7 +1,6 @@
 # git-tutorial
 feature-master
 and from feature-tmp
-<<<<<<< HEAD
 add from ouyangwen-it
 Hello bye bye chaiwentao
 
